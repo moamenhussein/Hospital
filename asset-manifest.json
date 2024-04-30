@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Hospital/static/css/main.399ca9dd.css",
+    "main.js": "/Hospital/static/js/main.014691d5.js",
+    "static/js/453.286566e7.chunk.js": "/Hospital/static/js/453.286566e7.chunk.js",
+    "static/media/formLoginHome.png": "/Hospital/static/media/formLoginHome.cb1832c5c394b9b72b8c.png",
+    "static/media/error.gif": "/Hospital/static/media/error.4b5472f14025469a16d7.gif",
+    "static/media/doctor-page.png": "/Hospital/static/media/doctor-page.7c2bc96d67d3eba1d64a.png",
+    "static/media/blogEight.jpg": "/Hospital/static/media/blogEight.a59ea2da7cc4c0bbd908.jpg",
+    "static/media/blogTwo.jpg": "/Hospital/static/media/blogTwo.67db6c474a828bd7a0cd.jpg",
+    "static/media/team2.jpg": "/Hospital/static/media/team2.67db6c474a828bd7a0cd.jpg",
+    "static/media/blogThree.jpg": "/Hospital/static/media/blogThree.89b8315141d75bd31ced.jpg",
+    "static/media/team3.jpg": "/Hospital/static/media/team3.89b8315141d75bd31ced.jpg",
+    "static/media/blogFour.jpg": "/Hospital/static/media/blogFour.28ea761e88293ca4d821.jpg",
+    "static/media/blogSix.jpg": "/Hospital/static/media/blogSix.42f81537f685791c71ac.jpg",
+    "static/media/blogOne.jpg": "/Hospital/static/media/blogOne.a3848a1189e2114e1b47.jpg",
+    "static/media/team1.jpg": "/Hospital/static/media/team1.a3848a1189e2114e1b47.jpg",
+    "static/media/testimonials.png": "/Hospital/static/media/testimonials.f5bb5f20078181888d06.png",
+    "static/media/blogSiven.jpg": "/Hospital/static/media/blogSiven.c1733b79898885a595bd.jpg",
+    "static/media/blogFive.jpg": "/Hospital/static/media/blogFive.44c2a54210474d223a99.jpg",
+    "static/media/blogNine.jpg": "/Hospital/static/media/blogNine.9ca3a0422fec87cd6c98.jpg",
+    "static/media/doctor6.jpg": "/Hospital/static/media/doctor6.be2a77adde3dc48f9d5b.jpg",
+    "static/media/doctor4.jpg": "/Hospital/static/media/doctor4.9045579a47c3fd89b17c.jpg",
+    "static/media/doctorOne.jpg": "/Hospital/static/media/doctorOne.22ac1d594f69ddaf3e08.jpg",
+    "static/media/doctorTwo.jpg": "/Hospital/static/media/doctorTwo.d03a0686030bcd2f05ec.jpg",
+    "static/media/about2.jpg": "/Hospital/static/media/about2.0593bc2fd8a13cf8c19f.jpg",
+    "static/media/doctorThree.jpg": "/Hospital/static/media/doctorThree.0d822ecc51b2532abe0e.jpg",
+    "static/media/doctor5.jpg": "/Hospital/static/media/doctor5.24eb182159ea2d58610f.jpg",
+    "static/media/about1.jpg": "/Hospital/static/media/about1.ad1ed7ee8284087fe9ee.jpg",
+    "static/media/about3.jpg": "/Hospital/static/media/about3.fa689b1037dbf69567a3.jpg",
+    "index.html": "/Hospital/index.html",
+    "static/media/wave.svg": "/Hospital/static/media/wave.17f2aafd016b85bcff65.svg",
+    "main.399ca9dd.css.map": "/Hospital/static/css/main.399ca9dd.css.map",
+    "main.014691d5.js.map": "/Hospital/static/js/main.014691d5.js.map",
+    "453.286566e7.chunk.js.map": "/Hospital/static/js/453.286566e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.399ca9dd.css",
+    "static/js/main.014691d5.js"
+  ]
+}
